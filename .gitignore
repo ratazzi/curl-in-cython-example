@@ -1,0 +1,4 @@
+*.so
+.vagrant
+*.c
+build
